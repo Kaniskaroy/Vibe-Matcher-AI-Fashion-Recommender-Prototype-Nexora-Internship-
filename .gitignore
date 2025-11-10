@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints
+
+# Environment
+.env
+env/
+venv/
+ENV/
+
+# VS Code
+.vscode/
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+*.pyo
+*.pyd
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Sensitive files
+secrets.json
+*.pem
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+*.DS_Store
+.env
+openai_api_key.txt
+.vscode/
+.idea/
